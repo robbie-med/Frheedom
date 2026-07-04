@@ -1,0 +1,13 @@
+:root {
+  color-scheme: light;
+  font-family: 'DM Sans', system-ui, sans-serif;
+  background: #f4efe6;
+  color: #182b2d;
+}
+
+* { box-sizing: border-box; }
+html { min-height: 100%; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; background: #f4efe6; }
+button, input { font: inherit; }
+button { cursor: pointer; }
+a { color: inherit; }
